@@ -10,7 +10,7 @@
 <br />
 
 ### About Me 🚀
-🌱 I’m a Typescript Back end developer. </br>
+🌱 I’m a Typescript Full stack developer. </br>
 👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
 
 ![Joao's github stats](https://github-readme-stats.vercel.app/api?username=joaogabrielf&show_icons=true&hide_border=true)&nbsp;&nbsp;
